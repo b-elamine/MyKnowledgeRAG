@@ -1,0 +1,47 @@
+# Python cache and environment files
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+*.egg
+venv/
+env/
+.venv/
+
+# Bytecode and cache
+*.pyc
+*.pyo
+*.pyd
+
+# VSCode and IDE settings
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data files you want to ignore
+data/github_projects/*
+!data/github_projects/.gitkeep
+
+# PDFs to ignore
+data/**/*.pdf
+
+# Vector stores and embeddings files
+data/vector_store/
+data/processed/raw_data.pkl
+data/processed/embeddings.pkl
+
+# dotenv environment files
+.env
+
+# Logs
+*.log
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Any other local files
+*.sqlite3
