@@ -1,4 +1,4 @@
-# PersonalRAGBot
+# My Knowledge RAG
 
 A Retrieval-Augmented Generation (RAG) chatbot powered by OpenAI embeddings to answer questions using your personal knowledge base: CV, master thesis, GitHub repos, and research papers.
 
