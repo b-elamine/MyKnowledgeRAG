@@ -20,8 +20,8 @@ This project builds a personalized chatbot that leverages your **own data** to a
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/PersonalRAGBot.git
-cd PersonalRAGBot
+git clone https://github.com/b-elamine/MyKnowledgeRAG
+cd MyKnowledgeRAG
 ```
 
 ### 2. Create a Virtual Environment
