@@ -184,12 +184,4 @@ PersonalRAGBot/
 
 ---
 
-## 📝 License
 
-MIT License
-
----
-
-## 👤 Author
-
-Created by Belamine — feel free to contribute or ask questions.
